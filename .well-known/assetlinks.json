@@ -1,0 +1,10 @@
+  [{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jmccoy93.haven",
+      "sha256_cert_fingerprints": [
+        "7F:A6:8A:3C:68:1C:F6:DB:A8:31:A1:A1:D4:B9:17:93:76:B3:C6:CE:13:25:54:2B:69:3E:0C:73:63:43:46:9D"
+      ]
+    }
+  }]
